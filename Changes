@@ -1,0 +1,6 @@
+Revision history for Perl extension WebService::30Boxes::API::event.
+
+0.01  Sun Jul 15 14:21:17 2007
+	- original version; created by h2xs 1.23 with options
+		-X -n WebService::30Boxes::API::event
+
